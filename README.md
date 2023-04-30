@@ -31,7 +31,7 @@ Once the script is running, hold your hand up to the webcam and make one of the 
 - Peace: increase the brightness of the last photo taken by 50 units
 - Fist: convert the last photo taken to grayscale
 
-## Usage
+## Applications
 
 The project can be used in various applications, including:
 
