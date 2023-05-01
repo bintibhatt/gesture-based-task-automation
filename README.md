@@ -40,4 +40,4 @@ The project can be used in various applications, including:
 - Overall, the project has many potential uses in various industries and fields, and its applications are only limited by the creativity and imagination of its users.
 
 ### Youtube Video link
-`https://youtu.be/v7TtxbhQzvk`
+`https://youtu.be/YDgI4H-ePiM`
